@@ -1,0 +1,30 @@
+scheme: http
+version: 1.0
+netHash: 5e67037fd290ba7ab378e84a591d251c46eb9770eb134983771fd602233bf193
+pubKeyHash: 0x3a
+epoch: 2017-03-21 13:00:00
+seedPeers:
+  -
+    hostname: 185.85.18.192
+    port: 4100
+  -
+    hostname: 136.144.215.24
+    port: 4101
+  -
+    hostname: 213.125.22.42
+    port: 4101
+
+
+trustedPeers:
+  -
+    hostname: 52.42.208.237
+    port: 4101
+  -
+    hostname: 52.49.159.191
+    port: 4101
+  -
+    hostname: 18.197.185.113
+    port: 4101
+  -
+    hostname: 13.251.46.213
+    port: 4101

@@ -1,0 +1,14 @@
+scheme: http
+version: 1.0
+netHash: 5e67037fd290ba7ab378e84a591d251c46eb9770eb134983771fd602233bf193
+pubKeyHash: 0x17
+epoch: 2017-03-21 13:00:00
+seedPeers:
+  -
+    hostname: 127.0.0.1
+    port: 4000
+
+trustedPeers:
+  -
+    hostname: 127.0.0.1
+    port: 4000
