@@ -21,6 +21,10 @@
             <id>ark-java</id>
             <url>https://dl.bintray.com/hodlercompany/qredit-java/</url>
         </repository>
+        <repository>
+            <id>spring-io</id>
+            <url>http://repo.spring.io/plugins-release/</url>
+        </repository>
     </repositories>
 
     <parent>
